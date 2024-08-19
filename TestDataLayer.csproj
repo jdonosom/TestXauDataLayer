@@ -9,10 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="G:\Users\pepel\Desktop\codigo\XauDataLayer\XauDataLayer.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Update="ConfigAccess.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
