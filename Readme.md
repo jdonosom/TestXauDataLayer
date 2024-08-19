@@ -1,4 +1,4 @@
-﻿# Testeando XauDataLyer
+﻿# Testeando XauDataLayer
 
 EL proyecto de testeo de XauDataLayer es una aplicación de WinForm Net 8 que permite probar la conexión a bases de datos SQL Server y MySQL.
 Contiene código que demuestra como realizar el llamado a comandos de motores de bases de datos y como obtener los resultados de los mismos.
