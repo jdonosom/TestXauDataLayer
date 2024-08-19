@@ -16,3 +16,8 @@ Resultados desde **MySQL Server**
 
 ![Xau](/images/UI3.png "Xauro Dev")
 
+Definición de las variables de ambiente del OS
+
+![Xau](/images/var_environ.jpg "Xauro Dev")
+
+Xauro Dev 2024
